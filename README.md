@@ -1,6 +1,6 @@
 # Learning Haskell
 
-Haskell 勉強会
+2015年 Haskell 勉強会
 
 ## Teaching materials.
 
