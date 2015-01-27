@@ -16,5 +16,13 @@
     - v イントロダクション ( [Introduction](http://learnyouahaskell.com/introduction) )
     - :
     - 1.4 レンジでチン！( [Texas Rangers](http://learnyouahaskell.com/starting-out#texas-ranges)  )
-- （予定）第2回 2015/1/27(火) : P15 ～ リスト内包表記 ( [I'm a list comprehension](http://learnyouahaskell.com/starting-out#im-a-list-comprehension) )
+- （終了）第2回 2015/1/27(火) : P15 ～ P28 
+    - 1.5 リスト内包表記 ( [I'm a list comprehension](http://learnyouahaskell.com/starting-out#im-a-list-comprehension) )
+    - :
+    - 2 型を信じろ ( [Types and Typeclasses - Believe the type](http://learnyouahaskell.com/types-and-typeclasses#believe-the-type) )
+    - :
+    - 2.3 一般的な Haskell の型 ( [Believe the type](http://learnyouahaskell.com/types-and-typeclasses#type-variables) )
+    - 2.4 型クラス 初級講座( Eq 型クラス まで) 
+- （予定）第3回 2015/2/3(火) : P29 ～ 2.4 型クラス 初級講座( Ord 型クラス から)
+    - 
 
