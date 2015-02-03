@@ -22,6 +22,7 @@
     - 2 型を信じろ ( [Types and Typeclasses - Believe the type](http://learnyouahaskell.com/types-and-typeclasses#believe-the-type) )
     - :
     - 2.4 型クラス 初級講座( Eq 型クラス まで) ( [Typeclasses 101](http://learnyouahaskell.com/types-and-typeclasses#typeclasses-101) )
-- （予定）第3回 2015/2/3(火) : P29 ～ 2.4 型クラス 初級講座( Ord 型クラス から)
+- （終了）第3回 2015/2/3(火) : P29 ～ P39
+    - 3.1 リストのパターンマッチとリスト内容 tell から ( [Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions#pattern-matching) )
+- （予定）第4回 2015/2/10(火) : P39 ～ 3.1 リストのパターンマッチとリスト内容 tell から
     - 
-
