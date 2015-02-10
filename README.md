@@ -24,5 +24,7 @@
     - 2.4 型クラス 初級講座( Eq 型クラス まで) ( [Typeclasses 101](http://learnyouahaskell.com/types-and-typeclasses#typeclasses-101) )
 - （終了）第3回 2015/2/3(火) : P29 ～ P39
     - 3.1 リストのパターンマッチとリスト内容 tell から ( [Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions#pattern-matching) )
-- （予定）第4回 2015/2/10(火) : P39 ～ 3.1 リストのパターンマッチとリスト内容 tell から
-    - 
+- （終了）第4回 2015/2/10(火) : P39 ～ P51 
+    - : 
+    - 3.5 関数の構文 case 式 ( [Case Expression](http://learnyouahaskell.com/syntax-in-functions#case-expressions) )
+- （予定）第5回 2015/2/17(火) : P51 ～ 第4章 Hello 再帰! 
