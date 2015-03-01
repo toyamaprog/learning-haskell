@@ -32,5 +32,5 @@
     - P59 再帰的に考える
     - 【課題】フィボナッチ数列を再帰で書く 
 -  (予定) 第5回 2015/3/3(火) : P61 ～ 第5章 高階関数 ( [High Order Function](http://learnyouahaskell.com/higher-order-functions) )
-    - (2/24 から 3/3 へ延期になりました)
+    - (会場の都合により 2/24 から 3/3 へ延期になりました)
 
