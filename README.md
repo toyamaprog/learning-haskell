@@ -30,6 +30,7 @@
 - （終了）第5回 2015/2/17(火) : P51 ～ 第4章 Hello 再帰!  ( [Recursion](http://learnyouahaskell.com/recursion) )
     - 【提案】 課題がないので、[「関数プログラミング入門」](http://www.amazon.co.jp/dp/427406896X/) を使うのがよいかもしれない
     - P59 再帰的に考える
--  (予定) 第5回 2015/2/24(火) : P61 ～ 第5章 高階関数 ( [High Order Function](http://learnyouahaskell.com/higher-order-functions) )
-    - 
+    - 【課題】フィボナッチ数列を再帰で書く 
+-  (予定) 第5回 ~~2015/2/24(火)~~ 2015/3/3(火) : P61 ～ 第5章 高階関数 ( [High Order Function](http://learnyouahaskell.com/higher-order-functions) )
+    - (延期になりました)
 
