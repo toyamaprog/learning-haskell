@@ -31,6 +31,6 @@
     - 【提案】 課題がないので、[「関数プログラミング入門」](http://www.amazon.co.jp/dp/427406896X/) を使うのがよいかもしれない
     - P59 再帰的に考える
     - 【課題】フィボナッチ数列を再帰で書く 
--  (予定) 第5回 ~~2015/2/24(火)~~ 2015/3/3(火) : P61 ～ 第5章 高階関数 ( [High Order Function](http://learnyouahaskell.com/higher-order-functions) )
-    - (延期になりました)
+-  (予定) 第5回 2015/3/3(火) : P61 ～ 第5章 高階関数 ( [High Order Function](http://learnyouahaskell.com/higher-order-functions) )
+    - (2/24 から 3/3 へ延期になりました)
 
