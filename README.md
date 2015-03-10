@@ -39,5 +39,5 @@
     - : 
     - 5.7 関数合成 ( [Higher Order Functions - Function composition](http://learnyouahaskell.com/higher-order-functions#composition) )
     - 【課題】 サンプルのコードを自前で、foldを使い実装してみる (reverse' , product' , filter' , last')
--  (予定) 第7回 2015/3/17 : P85～ 5.7 関数合成 多引数関数の関数合成 ( [Higher Order Functions - Function composition](http://learnyouahaskell.com/higher-order-functions#composition) )
+-  (予定) 第7回 2015/3/17 : P85～ 5.7 関数合成 多引数関数の関数合成 ( [Function composition](http://learnyouahaskell.com/higher-order-functions#composition) )
     -  
