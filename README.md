@@ -35,5 +35,9 @@
     - (会場の都合により 2/24 から 3/3 へ延期になりました)
     - :
     - 5.4 ラムダ式 ( [Lambdas](http://learnyouahaskell.com/higher-order-functions#lambdas) )
--  (予定) 第6回 2015/3/10 : P75～ 5.5 畳み込み、見込みアリ！ ( [Only folds and horses](http://learnyouahaskell.com/higher-order-functions#folds) )
-    -  (参加者の都合により、日時変更の可能性あり)
+-  (終了) 第6回 2015/3/10 : P75～P85 畳み込み、見込みアリ！ ( [Only folds and horses](http://learnyouahaskell.com/higher-order-functions#folds) )
+    - : 
+    - 5.7 関数合成 ( [Higher Order Functions - Function composition](http://learnyouahaskell.com/higher-order-functions#composition) )
+    - 【課題】 サンプルのコードを自前で、foldを使い実装してみる (reverse' , product' , filter' , last')
+-  (予定) 第7回 2015/3/17 : P85～ 5.7 関数合成 多引数関数の関数合成 ( [Higher Order Functions - Function composition](http://learnyouahaskell.com/higher-order-functions#composition) )
+    -  
