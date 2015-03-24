@@ -42,5 +42,7 @@
 -  (終了) 第7回 2015/3/17 : P85～P100 5.7 関数合成 多引数関数の関数合成 ( [Function composition](http://learnyouahaskell.com/higher-order-functions#composition) )
     -  :  
     - 6.2 標準モジュールの関数で問題を解く ( [Modules](http://learnyouahaskell.com/modules) )
--  (予定) 第8回 2015/3/24 : P100～ 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
+-  (終了) 第8回 2015/3/24 : P95～P102 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
+    - （前回の復習を兼ねて）
+-  (予定) 第9回 2015/4/7 : P102～ Data.Map - 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
     -  
