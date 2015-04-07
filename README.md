@@ -44,5 +44,7 @@
     - 6.2 標準モジュールの関数で問題を解く ( [Modules](http://learnyouahaskell.com/modules) )
 -  (終了) 第8回 2015/3/24 : P95～P102 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
     - （前回の復習を兼ねて）
--  (予定) 第9回 2015/4/7 : P102～ Data.Map - 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
-    -  
+-  (終了) 第9回 2015/4/7 : P102～110 Data.Map - 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
+    - :
+    - [7.Module - Making our own modules](http://learnyouahaskell.com/modules#making-our-own-modules)
+-  (予定) 第10回 2015/4/14 : P111～ 第7章 型や型クラスを自分で作ろう ( [Making Our Own Types and Typeclasses](http://learnyouahaskell.com/making-our-own-types-and-typeclasses) )
