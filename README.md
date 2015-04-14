@@ -47,4 +47,6 @@
 -  (終了) 第9回 2015/4/7 : P102～110 Data.Map - 6.3 キーから値へのマッピング ( [Data.map](http://learnyouahaskell.com/modules#data-map) )
     - :
     - [7.Module - Making our own modules](http://learnyouahaskell.com/modules#making-our-own-modules)
--  (予定) 第10回 2015/4/14 : P111～ 第7章 型や型クラスを自分で作ろう ( [Making Our Own Types and Typeclasses](http://learnyouahaskell.com/making-our-own-types-and-typeclasses) )
+-  (終了) 第10回 2015/4/14 : P111～ 第7章 型や型クラスを自分で作ろう ( [Making Our Own Types and Typeclasses](http://learnyouahaskell.com/making-our-own-types-and-typeclasses) )
+
+-  (予定) 第11回 2015/4/21 : P117～ 7.3 レコード構文 ( [Record syntax](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#record-syntax) )
