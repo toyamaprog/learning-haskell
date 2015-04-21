@@ -49,4 +49,8 @@
     - [7.Module - Making our own modules](http://learnyouahaskell.com/modules#making-our-own-modules)
 -  (終了) 第10回 2015/4/14 : P111～ 第7章 型や型クラスを自分で作ろう ( [Making Our Own Types and Typeclasses](http://learnyouahaskell.com/making-our-own-types-and-typeclasses) )
 
--  (予定) 第11回 2015/4/21 : P117～ 7.3 レコード構文 ( [Record syntax](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#record-syntax) )
+-  (終了) 第11回 2015/4/21 : P117～127 7.3 レコード構文 ( [Record syntax](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#record-syntax) )
+    -  :
+    - 7.5 インスタンスの自動導出 [Derived instances](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#derived-instances)
+-  (予定) 第12回 2015/4/28 : P127 - 7.5 インスタンスの自動導出 [Derived instances](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#derived-instances)
+
