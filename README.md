@@ -7,6 +7,8 @@
 - 【日本語版】 [『すごいHaskellたのしく学ぼう!』](http://www.amazon.co.jp/dp/4274068854)
     - 【英語】オンラインで閲覧可能 [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
 
+- 【課題】 の参考: [kokuyouwind/haskell-exercises](https://github.com/kokuyouwind/haskell-exercises)
+ 
 > :memo: 日本語版が英語よりも注釈が豊富なようなので日本語訳を使うことにする。
 ただし、「用語」は適時英語版のものを補う（学習者が検索しやすくするため）。
 
@@ -52,5 +54,8 @@
 -  (終了) 第11回 2015/4/21 : P117～127 7.3 レコード構文 ( [Record syntax](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#record-syntax) )
     -  :
     - 7.5 インスタンスの自動導出 [Derived instances](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#derived-instances)
--  (予定) 第12回 2015/4/28 : P127 - 7.5 インスタンスの自動導出 [Derived instances](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#derived-instances)
+-  (終了) 第12回 2015/4/28 : P127～P134 7.5 インスタンスの自動導出 [Derived instances](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#derived-instances)
+    - :   
+    - 7.6 型シノニム [Type synonyms](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#type-synonyms)
+-  (予定) 第13回 2015/5/12 : P134 - 7.6 型シノニム [Type synonyms](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#type-synonyms)
 
