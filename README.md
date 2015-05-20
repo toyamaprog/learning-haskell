@@ -60,8 +60,8 @@
 -  (終了) 第13回 <s>2015/5/12</s> 2015/5/19  : P134-P143 - 7.6 型シノニム [Type synonyms](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#type-synonyms)
     -  (5/19 日に延期になりました)
     -   :
-    - 型クラス ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
--  (予定) 第14回 2015/5/26  : P143- 型クラス ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
+    - 7.8 型クラス ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
+-  (予定) 第14回 2015/5/26  : P143- 7.8 型クラス ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
     - 
 
 
