@@ -61,7 +61,12 @@
     -  (5/19 日に延期になりました)
     -   :
     - 7.8 型クラス ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
--  (予定) 第14回 2015/5/26  : P143- 7.8 型クラス ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
+-  (終了) 第14回 2015/5/26  : P143-P152 7.8 型クラス 中級講座 ( [Typeclasses 102](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#typeclasses-102) )
+    - :
+    - 7.10 Functor 型クラス 「Maybe は Functor だよ、たぶん」まで ( [The Functor typeclass](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass) )
+-  (予定) 第15回 2015/6/2  : P152- 7.10 Functor 型クラス ( [The Functor typeclass](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass) )
     - 
+- 
+
 
 
