@@ -65,7 +65,7 @@
     - :
     - 7.10 Functor 型クラス 「Maybe は Functor だよ、たぶん」まで ( [The Functor typeclass](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass) )
 -  (終了) 第15回 2015/6/2 : P152-157 7.10 Functor 型クラス ( [The Functor typeclass](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass) )
-- (予定) 第16回 2015/6/9 : P159-174(目安) 8 入出力 ( [Input and Output - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#hello-world) )
-
-
+- (終了) 第16回 2015/6/9 : P159-174 8 入出力 ( [Input and Output - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#hello-world) )
+    - 次回は二週間後です。
+- (予定) 第17回 2015/6/23 : P175-185(目安) 第9章 もっと入力、もっと出力 ( [Input and Output - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#files-and-streams) )
 
