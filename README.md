@@ -67,7 +67,7 @@
 -  (終了) 第15回 2015/6/2 : P152-157 7.10 Functor 型クラス ( [The Functor typeclass](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#the-functor-typeclass) )
 - (終了) 第16回 2015/6/9 : P159-174 8 入出力 ( [Input and Output - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#hello-world) )
     - 次回は二週間後です。
-- (終了) 第17回 2015/6/23 : P175-186(目安) 第9章 もっと入力、もっと出力 ( [Input and Output - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#files-and-streams) )
+- (終了) 第17回 2015/6/23 : P175-186 第9章 もっと入力、もっと出力 ( [Input and Output - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#files-and-streams) )
     - 9.2 ファイルの読み書き
 - (予定) 第18回 2015/6/30 : P186-202(目安) 9.3 ToDOリスト ( [ToDo リスト - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/input-and-output#files-and-streams) )
 
