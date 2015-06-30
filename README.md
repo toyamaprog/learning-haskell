@@ -69,5 +69,8 @@
     - 次回は二週間後です。
 - (終了) 第17回 2015/6/23 : P175-186 第9章 もっと入力、もっと出力 ( [Input and Output](http://learnyouahaskell.com/input-and-output#files-and-streams) )
     - 9.2 ファイルの読み書き
-- (予定) 第18回 2015/6/30 : P186-202(目安) 9.3 ToDOリスト ( [ToDo リスト](http://learnyouahaskell.com/input-and-output#files-and-streams) )
+- (終了) 第18回 2015/6/30 : P186-200 9.3 ToDOリスト ( [ToDo リスト](http://learnyouahaskell.com/input-and-output#files-and-streams) )
+
+- (予定) 第19回 2015/7/7 : P201-209 (目安) 9.6 ランダム性 ( [Randomness](http://learnyouahaskell.com/input-and-output#randomness) )
+
 
