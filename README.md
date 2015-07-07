@@ -71,6 +71,7 @@
     - 9.2 ファイルの読み書き
 - (終了) 第18回 2015/6/30 : P186-200 9.3 ToDOリスト ( [ToDo リスト](http://learnyouahaskell.com/input-and-output#files-and-streams) )
 
-- (予定) 第19回 2015/7/7 : P201-209 (目安) 9.6 ランダム性 ( [Randomness](http://learnyouahaskell.com/input-and-output#randomness) )
-
+- (終了) 第19回 2015/7/7 : P201-201 9.6 ランダム性 ( [Randomness](http://learnyouahaskell.com/input-and-output#randomness) )
+    - (何らかの力が働き進捗はアレとなった)
+- (予定) 第20回 2015/7/14 : P201-209 (目安) 9.6 ランダム性 ( [Randomness](http://learnyouahaskell.com/input-and-output#randomness) )
 
