@@ -27,6 +27,7 @@
 
    500問以上の数学／計算機学の課題を解く。 言語に依存しない。
 
+* [Paiza](https://paiza.jp/) の [「スキルチェック(ログイン後閲覧可能ページ)」](https://paiza.jp/challenges) と [「学習(ログイン後閲覧可能ページ)」の問題一覧](https://paiza.jp/learning/)
 * [1時間以内に解けなければプログラマ失格となってしまう5つの問題が話題に](http://www.softantenna.com/wp/software/5-programming-problems/)
    
    この勉強会に参加しつつ「再帰ドリル」あたりをやれば特に問題なく解けそうな課題。
