@@ -75,7 +75,9 @@
     - (何らかの力が働き進捗はアレとなった)
 - (終了) 第20回 2015/7/14 : P201-204 9.6 ランダム性 ( [Randomness](http://learnyouahaskell.com/input-and-output#randomness) )
     - 課題を設定し、解いてみた
-        ⇒  ※**入出力の定型コードをあらかじめ用意しておくとスムーズに行きそう**
+        
+        ⇒ ※**入出力の定型コードをあらかじめ用意しておくとスムーズに行きそう**
+        
         - [足し算](https://paiza.jp/learning/addition)
         - [数の並び替え](https://paiza.jp/learning/sort-number)
 - (予定) 第21回 2015/7/21 : P205-209 (目安) 9.7 bytestring ( [Bytestring](http://learnyouahaskell.com/input-and-output#bytestrings) )
