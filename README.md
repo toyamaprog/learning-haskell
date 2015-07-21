@@ -80,5 +80,9 @@
         
         - [足し算](https://paiza.jp/learning/addition)
         - [数の並び替え](https://paiza.jp/learning/sort-number)
-- (予定) 第21回 2015/7/21 : P205-209 (目安) 9.7 bytestring ( [Bytestring](http://learnyouahaskell.com/input-and-output#bytestrings) )
-
+- (終了) 第21回 2015/7/21 : P205-209 9.7 bytestring ( [Bytestring](http://learnyouahaskell.com/input-and-output#bytestrings) )
+    - 課題
+        - （データ読みこむまで） [長テーブルのうなぎ屋](https://paiza.jp/learning/long-table)
+- (予定) 第22回 2015/7/21 : P205-209 (目安) 10 関数型問題解決方法 ( [Functionally Solving Problems](http://learnyouahaskell.com/functionally-solving-problems) )
+    - 課題
+        - [長テーブルのうなぎ屋](https://paiza.jp/learning/long-table)
