@@ -83,6 +83,8 @@
 - (終了) 第21回 2015/7/21 : P205-209 9.7 bytestring ( [Bytestring](http://learnyouahaskell.com/input-and-output#bytestrings) )
     - 課題
         - （データ読みこむまで） [長テーブルのうなぎ屋](https://paiza.jp/learning/long-table)
-- (予定) 第22回 2015/7/21 : P205-209 (目安) 10 関数型問題解決方法 ( [Functionally Solving Problems](http://learnyouahaskell.com/functionally-solving-problems) )
-    - 課題
-        - [長テーブルのうなぎ屋](https://paiza.jp/learning/long-table)
+- (終了) 第22回 2015/7/28 : P211-226 10 関数型問題解決方法 ( [Functionally Solving Problems](http://learnyouahaskell.com/functionally-solving-problems) )
+    - 課題は省略
+- (予習) 第23回 2015/8/11 : P227-240 (目安) 11 ファンクターからアプリカティブファンクター ( [Functors, Applicative Functors and Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) ) 
+    - 8/4 は参加者の都合によりお休みです。
+
