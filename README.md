@@ -87,5 +87,7 @@
     - 課題は省略
 - (終了) 第23回 2015/8/11 : P227-238 11 ファンクターからアプリカティブファンクター ( [Functors, Applicative Functors and Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) ) 
     - 8/4 は参加者の都合によりお休みです。
-- (予定) 第24回 2015/8/18 : P239-256 (目安) 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
+- (終了) 第24回 2015/8/18 : P239-240 (目安) 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
+    - 
+- (予定) 第25回 2015/8/25 : P240-250 (目安) 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
     - 
