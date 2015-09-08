@@ -92,4 +92,9 @@
 - (終了) 第25回 2015/8/25 : P240-247 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
     - **今回のポイント**: Applicative Style, `pure`, `<$>` , `<*>` 
     - **来週 9/1 は夏休みのためお休みです** 
-- (予定) 第26回 2015/9/8 : P247-256 (目安) 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
+- (終了) 第26回 2015/9/8 : P247-252 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
+    - IO もアプリカティブファンクターだよ！
+    - 11.4 アプリカティブの便利な関数
+- (予定) 第27回 2015/9/15 : P252-256 (目安) 11.4 アプリカティブの便利な関数( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
+    - 
+    - 
