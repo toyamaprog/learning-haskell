@@ -95,6 +95,7 @@
 - (終了) 第26回 2015/9/8 : P247-252 11.3 アプリカティブファンクターを使おう ( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
     - IO もアプリカティブファンクターだよ！
     - 11.4 アプリカティブの便利な関数
-- (予定) 第27回 2015/9/15 : P252-256 (目安) 11.4 アプリカティブの便利な関数( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) ) 
-    - 
-    - 
+- (終了) 第27回 2015/9/15 : P252-260  11.4 アプリカティブの便利な関数( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) )
+    - モノイドの途中。 
+    - 来週は、連休なので休み。
+- (予定) 第28回 2015/9/29 : P261- (目安) 12.1 既存の型を新しい型にくるむ - モノイド( [Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids) ) 
