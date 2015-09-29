@@ -98,4 +98,9 @@
 - (終了) 第27回 2015/9/15 : P252-260  11.4 アプリカティブの便利な関数( [Applicative functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors) )
     - モノイドの途中。 
     - 来週は、連休なので休み。
-- (予定) 第28回 2015/9/29 : P261- (目安) 12.1 既存の型を新しい型にくるむ - モノイド( [Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids) ) 
+- (終了) 第28回 2015/9/29 : P261-272 - 12.1 既存の型を新しい型にくるむ - モノイド( [Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids) )
+    - Monoid型クラス
+    - モノイド即
+    - [], Product, Sum, Any, All
+- (予定) 第29 2015/10/06 : P272- (目安) 12.3 Ordering モノイド( [Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids) ) 
+    - Ordering モノイド
