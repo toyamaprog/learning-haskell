@@ -102,5 +102,9 @@
     - Monoid型クラス
     - モノイド即
     - [], Product, Sum, Any, All
-- (予定) 第29 2015/10/06 : P272- (目安) 12.3 Ordering モノイド( [Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids) ) 
+- (終了) 第29回 2015/10/06 : P272- 281 12.3 Ordering モノイド( [Monoids](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids) ) 
     - Ordering モノイド
+    - Maybe モノイド
+    - F.Foldr 
+- (予定) 第30回 2015/10/13 : P281- (目安) 12.3 Ordering モノドがいっぱい( [Monoids](http://learnyouahaskell.com/a-fistful-of-monads) 
+    - 
