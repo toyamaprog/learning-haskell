@@ -107,5 +107,10 @@
     - Maybe モノイド
     - F.Foldr 
 - (終了) 第30回 2015/10/13 : P281-285 13 モノドがいっぱい( [Monoids](http://learnyouahaskell.com/a-fistful-of-monads) 
-- (予定) 第31回 2015/10/20 : P285- (目安) 「13 Monad型クラス」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
+- (終了) 第31回 2015/10/20 : P285-298 「13 Monad型クラス」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class)
+    - 13.2 Maybeから始めるモナド
+    - 13.3 Monad型クラス
+    - 13.4 綱渡り
+    - 13.5 do 記法
+- (予定) 第32回 2015/10/27 : P299- (目安) 「帰ってきたピエール」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
 
