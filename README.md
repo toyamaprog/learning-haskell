@@ -112,5 +112,8 @@
     - 13.3 Monad型クラス
     - 13.4 綱渡り
     - 13.5 do 記法
-- (予定) 第32回 2015/10/27 : P299- (目安) 「帰ってきたピエール」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
+- (終了) 第32回 2015/10/27 : P299-306  「帰ってきたピエール」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
+    - 13.5 do 記法
+    - 13.6 リストモナド 
+- (予定) 第33回 2015/11/03 : P-306 (目安) 13.6「騎士の旅」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
 
