@@ -119,5 +119,5 @@
     - 11/3 は会場が使えないため、11/10に延期になりました。
     - 13.6 リストモナド 
     - 13.7 モナド即
-- (予定) 第34回 2015/11/17 : P315 第14章 もうちょっとだけモナド (目安) ( [The Monad type class](http://learnyouahaskell.com/for-a-few-monads-more)
+- (予定) 第34回 2015/11/17 : P315 第14章 もうちょっとだけモナド (目安) ( [For a Few Monads More](http://learnyouahaskell.com/for-a-few-monads-more)
 
