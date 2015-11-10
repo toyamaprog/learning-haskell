@@ -115,5 +115,9 @@
 - (終了) 第32回 2015/10/27 : P299-306  「帰ってきたピエール」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
     - 13.5 do 記法
     - 13.6 リストモナド 
-- (予定) 第33回 2015/11/10 : P-306 (目安) 13.6「騎士の旅」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-monad-type-class) 
+- (終了) 第33回 2015/11/10 : P306-P313 13.6「騎士の旅」の前から( [The Monad type class](http://learnyouahaskell.com/a-fistful-of-monads#the-list-monad) 
     - 11/3 は会場が使えないため、11/10に延期になりました。
+    - 13.6 リストモナド 
+    - 13.7 モナド即
+- (予定) 第34回 2015/11/17 : P315 第14章 もうちょっとだけモナド (目安) ( [The Monad type class](http://learnyouahaskell.com/for-a-few-monads-more)
+
