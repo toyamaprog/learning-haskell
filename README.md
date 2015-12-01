@@ -152,4 +152,6 @@
 - (終了) 第34回 2015/11/24 : P315-320 第14章 もうちょっとだけモナド ( [For a Few Monads More](http://learnyouahaskell.com/for-a-few-monads-more)
     - 参加者の都合により 11/17 から 11/24 へと延期になりました。
     - 14.1 Writer? 中の人なんていません！
-- (予定) 第35回 2015/12/01 : P320- 第14章 Writer型 - もうちょっとだけモナド (目安) ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
+- (終了) 第35回 2015/12/01 : P320-328 第14章 Writer型 - もうちょっとだけモナド (目安) ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
+- (予定) 第36回 2015/12/08 : P329- 第14章 性能の比較 ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
+
