@@ -153,5 +153,8 @@
     - 参加者の都合により 11/17 から 11/24 へと延期になりました。
     - 14.1 Writer? 中の人なんていません！
 - (終了) 第35回 2015/12/01 : P320-328 第14章 Writer型 - もうちょっとだけモナド (目安) ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
-- (予定) 第36回 2015/12/08 : P329- 第14章 性能の比較 ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
-
+- (終了) 第36回 2015/12/08 : P323-331 第14章 性能の比較 ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
+    - (復習) Writer Monad, gcdReverse, 差分リスト
+    - モナドとしての関数, Reader モナド
+- (予定) 第37回 2015/12/15 : P329- 第14章 性能の比較 ( [Writer? I hardly know her!](http://learnyouahaskell.com/for-a-few-monads-more#writer)
+    - 12/22 は参加者予定により休講です。 
