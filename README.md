@@ -159,4 +159,5 @@
 - (終了) 第37回 2015/12/15 : P329-338 第14章 性能の比較 ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#state)
     - 14.3 計算の状態の正体
     - 12/22, 12/29, 1/5 は会場と参加者都合により休講です。 次回は 1/12 
-- (予定) 第38回 2016/1/12 : P338- 第14章 もうちょっとだけモナド, 14.3計算の状態の正体 ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#state)
+- (終了) 第38回 2016/1/12 : P338-344 第14章 もうちょっとだけモナド, 14.3計算の状態の正体 ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#state)
+- (予定) 第39回 2016/1/19 : P343- 第14章 もうちょっとだけモナド, 14.5 liftM と愉快な仲間たち ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
