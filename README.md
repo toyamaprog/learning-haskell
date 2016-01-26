@@ -160,7 +160,11 @@
     - 14.3 計算の状態の正体
     - 12/22, 12/29, 1/5 は会場と参加者都合により休講です。 次回は 1/12 
 - (終了) 第38回 2016/1/12 : P338-344 第14章 もうちょっとだけモナド, 14.3計算の状態の正体 ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#state)
-- (終了) 第39回 2016/1/19 : P343-349 第14章 もうちょっとだけモナド, 14.5 便利なモナディック関数特集 ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
-- (予定) 第40回 2016/1/26 : P349- 第14章 もうちょっとだけモナド, 14.5 便利なモナディック関数特集 ( [Tasteful stateful computations](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
+- (終了) 第39回 2016/1/19 : P343-349 第14章 もうちょっとだけモナド, 14.5 便利なモナディック関数特集 ( [Some useful monadic functions](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
+    * `liftM`, `join`
+- (終了) 第40回 2016/1/26 : P349- 第14章 もうちょっとだけモナド, 14.5 便利なモナディック関数特集 ( [Some useful monadic functions](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
     * 1/26 豪雪の場合は、自宅参加の予定です。
-    * 2/2 は参加者都合によりお休みです。
+    * **2/2 は参加者都合によりお休みです。**
+    * `filterM` `foldM` 
+- (終了) 第41回 2016/2/9 : P349- 14.5 便利なモナディック関数特集 ( [Some useful monadic functions](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
+    * `filterM` `foldM` おさらい
