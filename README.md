@@ -166,7 +166,10 @@
     * 1/26 豪雪の場合は、自宅参加の予定です。
     * **2/2 は参加者都合によりお休みです。**
     * `filterM` `foldM` 
-- (予定) 第41回 2016/2/17 : P349- 14.5 便利なモナディック関数特集 ( [Some useful monadic functions](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
+- (終了) 第41回 2016/2/17 : P349-355 14.5 便利なモナディック関数特集 ( [Some useful monadic functions](http://learnyouahaskell.com/for-a-few-monads-more#useful-monadic-functions)
     * **2/2, 2/10 は参加者都合によりお休みです。**
     * 今回から **水曜日開催** になりました。
     * `filterM` `foldM` おさらい
+    * 14.6 安全な逆ポーランド記法電卓を作ろう
+- (予定) 第42回 2016/2/24 : P355- 14.7 モナディック関数の合成
+    * 
